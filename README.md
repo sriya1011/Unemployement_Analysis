@@ -1,12 +1,12 @@
 # 📉 Unemployment Analysis using Python
 
 This project performs an **exploratory data analysis (EDA) and visualization** of unemployment trends using Python.  
-It aims to **analyze unemployment patterns**, identify key trends, and provide insights through visualizations and summary statistics.
+It aims to **analyze unemployment patterns** during the COVID-19, identify key trends, and provide insights through visualizations and summary statistics.
 
 ---
 
 ## 📊 Dataset
-- **Source:** Publicly available unemployment datasets (e.g., Kaggle, government statistics)  
+- **Source:** Publicly available unemployment dataset (Kaggle)  
 - **Typical Features:**  
   - Region / State / Country  
   - Year / Month  
